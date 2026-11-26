@@ -1,0 +1,6 @@
+logs/
+work/
+jgproject/
+*.log
+*.rpt
+*.key
